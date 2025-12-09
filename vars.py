@@ -1,9 +1,10 @@
 API_ID = 22984163  # Change with your Api_id
 API_HASH = "18c3760d602be96b599fa42f1c322956"  # Change with your Api_hash
 BOT_TOKEN = "8348577322:AAHOpd-XLXdVpBl3eC_d6iKyt_nNQ6sDXaQ"  # Change with your bot_token
-AUTH_USERS = [915101089]  # Authorized user ID
-OWNER = 915101089  # Owner user ID
+AUTH_USERS = [6090172625]  # Authorized user ID
+OWNER = 6090172625  # Owner user ID
 CREDIT = "NT Bots"  # Bot credit name
 LOG_CHANNEL = -1003372979311  # Log channel ID
 TXT_CHANNEL = -1003372979311  # Text channel ID
 TOTAL_USERS = []  # Will be populated dynamically
+
